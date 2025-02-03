@@ -9,14 +9,14 @@
 	<li>🧠 Estou procurando ajuda com: Técnicas avançadas de Frontend e melhores práticas de UI/UX.</li>
 </ul>
 
-<h3 align="left">Estatística do GiHub</h3>
+<h3 align="left">Estatística do GiHub:</h3>
 <div>
   <a href = "https://github.com/MonaStopa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonaStopa&show_icons=true/&theme=dracula&include_all_commits=true&count_private-true"L>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaStopa&layout=compact&langs_count=16&theme=dracula"L>
 </div>
 
-<h3 align="left">Minhas experiencias</h3>
+<h3 align="left">Experiencias:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mona-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mona-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

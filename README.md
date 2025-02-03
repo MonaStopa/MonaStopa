@@ -1,4 +1,7 @@
 ## Oiii eu sou a Monalisa Stopa 👋
+<p>
+	Sou estagiária em UX e UI Design, com experiência no desenvolvimento de interfaces e protótipos que aliam funcionalidade e criatividade. Estudante em Análise e Desenvolvimento de Sistemas, busco combinar habilidades técnicas e um olhar estratégico para criar soluções digitais que oferecem experiências de usuário intuitivas, acessíveis e eficientes. Atualmente, estou em constante aprimoramento, dedicando-me ao aprendizado de desenvolvimento front-end, com foco em adquirir conhecimentos em HTML, CSS e JavaScript. 
+</p>
 <ul>
   <li>💼 Atualmente estou trabalhando em: UX/UI Design como estagiária na IBM.</li>
 	<li>🚀 Atualmente estou aprendendo: Frontend, me especializando em HTML, CSS e Java.</li>
